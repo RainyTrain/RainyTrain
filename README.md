@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-**RainyTrain/RainyTrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" align="center" width="300px"/>
 </div></br>
