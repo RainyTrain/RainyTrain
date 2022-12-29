@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" align="center" width="300px"/>
+  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" align="center" width="300px" height="230px"/>
 </div></br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adryian-senkevich/">
