@@ -22,7 +22,6 @@
 - :seedling: Passionate about Web Development and Data Science.
 - :mailbox: How to reach me: adriansenkevich@gmail.com
 
-
 <div>
   :hammer_and_wrench: Languages and Tools :
 </div></br>
